@@ -176,6 +176,7 @@ footer span {
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
+        background-atachment: scroll;
     }
     .navbar {
         background-color: rgba(0, 0, 0, 0.6);
